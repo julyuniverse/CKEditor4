@@ -1,0 +1,5 @@
+코드이그나이터에서 ckeditor 사용
+
+config.js파일은 최초 생성된 ckeditor파일에 있음
+upload.php파일은 config.js에 동일한 폴더에 넣음
+최초 생성된 ckeditor파일에 images파일을 생성
